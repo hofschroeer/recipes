@@ -18,7 +18,7 @@
 #
 
 category: common
-depends: gnuradio gr-mapper gr-eventstream
+depends: gnuradio gr-mapper gr-eventstream python-bitarray
 source: git://https://github.com/gr-vt/gr-burst.git
 gitbranch: master
 inherit: cmake
